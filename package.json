@@ -1,0 +1,26 @@
+{
+  "name": "node-spy-test-server",
+  "version": "1.0.0",
+  "description": "Mock client server for Node Spy",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eviscerare/node-spy-test-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  },
+  "bugs": {
+    "url": "https://github.com/Eviscerare/node-spy-test-server/issues"
+  },
+  "homepage": "https://github.com/Eviscerare/node-spy-test-server#readme"
+}
